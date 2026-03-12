@@ -22,7 +22,7 @@ export function useSpeechRecognition(): SpeechRecognitionHook {
       return;
     }
 
-    const recognition = new SpeechRecognition();
+    const recognition = new SpeechRecognitionAPI();
     recognition.continuous = false;
     recognition.interimResults = true;
     recognition.lang = "en-US";
