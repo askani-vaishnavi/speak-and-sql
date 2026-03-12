@@ -39,17 +39,17 @@
     --chart-bar: 240 10% 80%;
     --chart-bar-hover: 240 10% 60%;
 
-    --sidebar-background: 240 4.8% 95.9%;
-    --sidebar-foreground: 240 5.3% 26.1%;
-    --sidebar-primary: 240 5.9% 10%;
-    --sidebar-primary-foreground: 0 0% 98%;
-    --sidebar-accent: 240 4.8% 95.9%;
-    --sidebar-accent-foreground: 240 5.9% 10%;
-    --sidebar-border: 240 5.9% 90%;
-    --sidebar-ring: 346.8 77.2% 49.8%;
+    --sidebar-background: 270 30% 88%;
+    --sidebar-foreground: 262 30% 25%;
+    --sidebar-primary: 262 83% 58%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 270 35% 84%;
+    --sidebar-accent-foreground: 262 40% 20%;
+    --sidebar-border: 265 20% 82%;
+    --sidebar-ring: 262 83% 58%;
 
     --result-shadow: 0 0 0 1px rgba(0,0,0,.05), 0 1px 3px 0 rgba(0,0,0,.03), 0 4px 12px -4px rgba(0,0,0,.04);
-    --listening-glow: 0 0 0 4px hsl(346.8 77.2% 49.8% / 0.2), 0 0 0 1px hsl(240 5.9% 90%);
+    --listening-glow: 0 0 0 4px hsl(262 83% 58% / 0.2), 0 0 0 1px hsl(265 20% 85%);
   }
 
   .dark {
